@@ -45,16 +45,25 @@ le fichier a pris +10kB avec un import
 
 # Q7: Noter les nom des différents fichiers qui ont été générés par la commande.
 Réponse:
+dist/assets/style-b4SyXn9O.css  
+dist/assets/about-D08RWGIN.js   
+dist/assets/style-Dgd37vtf.js  
+dist/assets/main-QCVwn2m0.js 
 
 # Q8 : Noter les nom des différents fichiers .js qui sont chargés au moment du chargement de la page.
 Réponse:
+style-Dgd37vtf.js
+main-QCVwn2m0.js
 
 # Q9 : Noter les nom des différents fichiers .js qui sont chargés au moment du changement de page.
 Réponse:
+about-D08RWGIN.js
+style-Dgd37vtf.js
 
 
 # Q10: Quel est l'intérêt de lu Code Splitting d'un point de vue éco-responsable ?
 Réponse:
+on ne charge pas toutes les pages, uniquement celles surlesquelles on clique 
 
 
 # Q11: Ajouter le screen de votre score :
