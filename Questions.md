@@ -68,6 +68,7 @@ on ne charge pas toutes les pages, uniquement celles surlesquelles on clique
 
 # Q11: Ajouter le screen de votre score :
 Screen:
+![alt text](image.png)
 
 
 # Q12:  Proposition 1
